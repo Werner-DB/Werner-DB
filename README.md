@@ -22,8 +22,8 @@ Agents IA & LLM · Python (FastAPI, uv) · Kubernetes · Observabilité · Archi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Werner-DB&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Werner-DB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Werner-DB&icon=0&color=0)](https://visitcount.itsvg.in)
